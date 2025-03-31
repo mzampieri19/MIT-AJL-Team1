@@ -39,6 +39,8 @@ Files in this Github:
 - training.ipynb. In this notebook a CNN model is prepared and trained.
 
 To run the pre-processing and training notebooks, download the files and open them in your desired workspace. After that, you should be able to run all the cells like any other jupyter notebook. 
+
+models and submission folders are hidden for now.
 _________________________________________________________________________
 
 **Project Overview** 
